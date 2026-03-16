@@ -1,0 +1,6 @@
+data/
+models/
+*.pt
+*.pth
+*.pkl
+*.parquet
